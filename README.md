@@ -1,6 +1,6 @@
 # 概述
 
-本章的代码基于opencood，基准模型为F-copper。
+本章代码基于opencood，基准模型为F-copper。
 
 参考链接：https://opencood.readthedocs.io/en/latest/md_files/data_intro.html
 
